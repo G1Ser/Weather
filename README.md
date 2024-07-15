@@ -15,4 +15,4 @@ npm run dev
 ```
 
 ###### 线上地址
-https://43.139.219.105/startsbucksmap/
+https://43.139.219.105/weather/
