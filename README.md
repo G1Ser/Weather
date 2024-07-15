@@ -3,11 +3,7 @@
 ###### 项目配置
 去高德地图申请一个Web服务密钥。
 ```
-// index.html 11行 设置你Web端密钥对应的安全密钥
-securityJsCode: '<Your SecurityJsCode>'
-// index.html 15行 设置你Web端的密钥
-src="https://webapi.amap.com/maps?v=2.0&key=<Your JsKey>&plugin=AMap.Driving">
-// ./src/stores/GaoDe.js 11行 设置你Web服务的密钥
+// ./src/stores/counter.js 6行 设置你Web服务的密钥
 const key = ref('<Your Key>')
 ```
 
