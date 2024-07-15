@@ -3,7 +3,7 @@ import { defineStore } from 'pinia'
 import axios, { all } from 'axios'
 
 export const useWeatherStore = defineStore('weather', () => {
-  const key = ref('66a865570fd1e4a0c42f5a173ec8d7d9')
+  const key = ref('<Your Key>')
   const cityInfo = ref({
     adcode: '',
     city: '',
