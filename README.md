@@ -5,7 +5,7 @@
 去高德地图申请一个Web服务密钥。
 ```
 // ./src/stores/counter.js 6行 设置你Web服务的密钥
-const key = ref('<Your Key>')
+const key = ref('Your Key')
 ```
 
 ###### 项目运行
